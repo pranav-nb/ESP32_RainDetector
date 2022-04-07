@@ -3,9 +3,9 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-#define WIFI_SSID "Pranav's_android"
-#define WIFI_PASSWORD "012345678"
-#define BOT_TOKEN "5126591326:AAFvsVpfFTSDTO3EkOhypQ5n_qFtmCU3yG8"
+#define WIFI_SSID "/*wifi ssid*/"
+#define WIFI_PASSWORD "/*wifi password*/"
+#define BOT_TOKEN "/*bot token*/"
 
 const unsigned long BOT_MTBS = 1000;
 Servo myservo;
