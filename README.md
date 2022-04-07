@@ -1,6 +1,8 @@
 # ESP32_RainDetector
 
-<br>![WhatsApp Image 2022-04-07 at 20 03 18](https://user-images.githubusercontent.com/75573305/162226376-a072fdc6-3ba2-49a0-954a-6640ca2d9195.jpeg)
+<br>
+
+<img src="https://github.com/pranav-nb/ESP32_RainDetector/blob/main/Rain.jpeg" width="400px" height="400px" >
 
 <h5>NOTE: This is a simple IoT project implemented to give some ideas on what can be done with ESP32 and some simple components </h5>
 
